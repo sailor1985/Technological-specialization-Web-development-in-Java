@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Intermediate certification programmer/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ2/Task2/CurrentDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ2/Task2/FormattedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ2/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ2/Task2/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ2/Task2/WriteInFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restaurant-voting/src/main/java/ru/javaops/bootjava/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restaurant-voting/src/main/java/ru/javaops/bootjava/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_course_mvc_hibernate_aop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_course_mvc_hibernate_aop/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="Task2 - done!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="2Si421fkAg0cOXYbWsAKjyeNqgk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -57,6 +42,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,8 +58,17 @@
       <updated>1689615860915</updated>
       <workItem from="1689615862683" duration="2622000" />
       <workItem from="1689631188239" duration="128000" />
-      <workItem from="1689842945334" duration="5720000" />
+      <workItem from="1689842945334" duration="6088000" />
     </task>
+    <task id="LOCAL-00001" summary="Task2 - done!">
+      <option name="closed" value="true" />
+      <created>1689862141529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689862141529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Task2 - done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2 - done!" />
   </component>
 </project>
