@@ -1,6 +1,6 @@
 package Intermediate_certification_programmer.DZ2;
 
-public class Cesar {
+public class Task2Cesar {
     public static String encryptDecrypt(String message, boolean isEncrypt, int key) {
         StringBuilder result = new StringBuilder();
 
