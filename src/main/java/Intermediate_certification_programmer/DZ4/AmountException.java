@@ -1,0 +1,8 @@
+package Intermediate_certification_programmer.DZ4;
+
+public class AmountException extends RuntimeException {
+
+    public AmountException() {
+        super("Ошибка! Необходимо покупать товар количеством от 1 до 100");
+    }
+}

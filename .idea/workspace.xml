@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="DZ3:task1 -done!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ3/Task2/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ3/Task2/Main.java" afterDir="false" />
+    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="DZ3:task2 -done!">
+      <change afterPath="$PROJECT_DIR$/../Intermediate certification programmer/src/main/java/Intermediate_certification_programmer/Pack_animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intermediate certification programmer/src/main/java/Intermediate_certification_programmer/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ4/AmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ4/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ4/CustomerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ4/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ4/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/DZ4/ProductException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/Lesson4/Task1/LoginPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/Lesson4/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/Lesson4/Task1/WrongLoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Intermediate_certification_programmer/Lesson4/Task1/WrongPasswordException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +69,7 @@
       <recent name="Intermediate_certification_programmer.DZ3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Intermediate_certification_programmer.DZ4" />
       <recent name="Intermediate_certification_programmer.DZ3.Task2" />
     </key>
   </component>
@@ -73,7 +85,10 @@
       <workItem from="1689631188239" duration="128000" />
       <workItem from="1689842945334" duration="8449000" />
       <workItem from="1690057505034" duration="583000" />
-      <workItem from="1690096452386" duration="11790000" />
+      <workItem from="1690096452386" duration="12008000" />
+      <workItem from="1690218865163" duration="6352000" />
+      <workItem from="1690322265930" duration="184000" />
+      <workItem from="1690322772874" duration="8576000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - done!">
       <option name="closed" value="true" />
@@ -115,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690108125200</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DZ3:task2 -done!">
+      <option name="closed" value="true" />
+      <created>1690109008871</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690109008871</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +151,7 @@
     <MESSAGE value="DZ2:task2 -done!" />
     <MESSAGE value="DZ3:task3 -done!" />
     <MESSAGE value="DZ3:task1 -done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ3:task1 -done!" />
+    <MESSAGE value="DZ3:task2 -done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ3:task2 -done!" />
   </component>
 </project>
