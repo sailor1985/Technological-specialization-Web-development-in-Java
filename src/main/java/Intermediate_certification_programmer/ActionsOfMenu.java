@@ -1,63 +1,44 @@
 package Intermediate_certification_programmer;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
 public class ActionsOfMenu {
     public static Animals addNewAnimal (Scanner scanner) {
-        String nickname = EnterInputData.animalNickname(scanner); // ввод имени животного
-        LocalDate birthday = EnterInputData.animalBirthday(scanner); // ввод даты рождения
-        String type = EnterInputData.typeOfAnimal(scanner);// ввод типа животного
-        List<String> commandsOfAnimal = EnterInputData.commandsOfAnimal(scanner); // ввод команд, которые знает животное
+        String nickname = EnterInputData.animalNickname(scanner);
+        LocalDate birthday = EnterInputData.animalBirthday(scanner);
+        String type = EnterInputData.typeOfAnimal(scanner);
+        String[] commandsArray = EnterInputData.commandsOfAnimal(scanner);
+        ArrayList<String> commandsList = new ArrayList<>(Arrays.asList(commandsArray));
+
         Animals animal = null;
         switch (type.toLowerCase()) {
             case "cat" -> {
-                if (commandsOfAnimal == null) {
-                    animal = new Cat(nickname, birthday, PetsType.Type.Cat);
-                } else {
-                    animal = new Cat(nickname, birthday, commandsOfAnimal, PetsType.Type.Cat);
-                }
+                animal = new Cat(nickname, birthday, commandsList, PetsType.Type.Cat);
             }
-            case "dog" ->{
-                if (commandsOfAnimal == null) {
-                    animal = new Dog(nickname, birthday, PetsType.Type.Dog);
-                } else {
-                    animal = new Dog(nickname, birthday, commandsOfAnimal, PetsType.Type.Dog);
-                }
+            case "dog" -> {
+                animal = new Dog(nickname, birthday, commandsList, PetsType.Type.Dog);
             }
             case "parrot" -> {
-                if (commandsOfAnimal == null) {
-                    animal = new Parrot(nickname, birthday, PetsType.Type.Parrot);
-                } else {
-                    animal = new Parrot(nickname, birthday, commandsOfAnimal, PetsType.Type.Parrot);
-                }
+                animal = new Parrot(nickname, birthday, commandsList, PetsType.Type.Parrot);
             }
             case "horse" -> {
-                if (commandsOfAnimal == null) {
-                    animal = new Horse(nickname, birthday, PackAnimalsType.Type.Horse);
-                } else {
-                    animal = new Horse(nickname, birthday, commandsOfAnimal, PackAnimalsType.Type.Horse);
-                }
+                animal = new Horse(nickname, birthday, commandsList, PackAnimalsType.Type.Horse);
             }
             case "camel" -> {
-                if (commandsOfAnimal == null) {
-                    animal = new Camel(nickname, birthday, PackAnimalsType.Type.Camel);
-                } else {
-                    animal = new Camel(nickname, birthday, commandsOfAnimal, PackAnimalsType.Type.Camel);
-                }
+                animal = new Camel(nickname, birthday, commandsList, PackAnimalsType.Type.Camel);
             }
             case "monkey" -> {
-                if (commandsOfAnimal == null) {
-                    animal = new Monkey(nickname, birthday, PackAnimalsType.Type.Monkey);
-                } else {
-                    animal = new Monkey(nickname, birthday, commandsOfAnimal, PackAnimalsType.Type.Monkey);
-                }
+                animal = new Monkey(nickname, birthday, commandsList, PackAnimalsType.Type.Monkey);
             }
             default -> System.out.println("Ошибка: Недопустимый тип животного.");
         }
         return animal;
     }
+
     public static void searchByNameOfAnimalHisType (List<Animals> animalList, Scanner scanner) {
         String searchNickname = EnterInputData.animalNickname(scanner); // ввод имени животного для поиска
         boolean found = false;
@@ -95,7 +76,7 @@ public class ActionsOfMenu {
             if (currentAnimal.getNickname().equalsIgnoreCase(searchNickname)) {
                 currentAnimal.addCommand(newCommand);
                 foundCommands = true;
-                System.out.println("Теперь животное " + currentAnimal.getCommands() + "знает следующие команды: ");
+                System.out.println(currentAnimal.getNickname() + " знает следующие команды: " + currentAnimal.getCommands());
                 break;
             }
         }

@@ -1,13 +1,12 @@
 package Intermediate_certification_programmer;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        List<Animals> animalList = new ArrayList<>(); // Список животных нашего зоопарка
+        ArrayList<Animals> animalList = new ArrayList<>(); // Список животных нашего зоопарка
         Scanner scanner = new Scanner(System.in);
         try (Counter counter = new Counter()) {
             while (true) {
@@ -17,11 +16,9 @@ public class Main {
                     case 1 -> {
                         // определили имя, дату рождения и тип животного, которое будем добалять в зоопар
                         Animals animal = ActionsOfMenu.addNewAnimal(scanner);
-                        if (animal != null) {
-                            animalList.add(animal);
-                            counter.add();
-                            System.out.println("Животное успешно добавлено.");
-                        }
+                        animalList.add(animal);
+                        counter.add();
+                        System.out.println("Животное успешно добавлено.");
                     }
                     //2. Определить правильный тип/класс по имени искомого животного
                     case 2 -> ActionsOfMenu.searchByNameOfAnimalHisType(animalList, scanner); // определили тип животного по его имени

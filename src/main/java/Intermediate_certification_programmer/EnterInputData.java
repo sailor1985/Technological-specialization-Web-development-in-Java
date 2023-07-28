@@ -1,7 +1,6 @@
 package Intermediate_certification_programmer;
 
 import java.time.LocalDate;
-import java.util.List;
 import java.util.Scanner;
 
 public class EnterInputData {
@@ -27,8 +26,8 @@ public class EnterInputData {
         System.out.print("Какую команду хотите добавить: ");
         return scanner.nextLine();
     }
-    public static  List<String> commandsOfAnimal(Scanner scanner) {
+    public static String[] commandsOfAnimal(Scanner scanner) {
         System.out.print("Какие команды знает животное? (перечисляйте через пробел): ");
-        return List.of(scanner.nextLine().split(" "));
+        return scanner.nextLine().split(" ");
     }
 }
