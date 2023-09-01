@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('./font/Gilroy-Bold.woff2');
+}
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('./font/Gilroy-Medium.woff2');
+}
+@font-face {
+    font-family: 'Gilroy-Semibold';
+    src: url('./font/Gilroy-Semibold.woff2');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    scroll-behavior: smooth;
+    font-weight: 400;
+    background: #FFF;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.container__footer {
+    max-width: 1200px;
+    padding: 97px 375px 96px 345px;
+    margin: 0 auto;
+}
+
+.container-nav {
+    padding: 12px;
+}
+
+header {
+    padding: 40px 0;
+    font-family: Gilroy-SemiBold;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-size: 14px;
+    margin-bottom: 84px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-start;
+    gap: 500px;
+}
+
+.navigation-nav {
+    display: flex;
+    gap: 30px;
+}
+
+.navigation a {
+    color: #000;
+    font-family: Gilroy-Medium;
+}
+
+.navigation a.home {
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+}
+
+.main {
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 162px;
+}
+
+.main-content__wrapper {
+    max-width: 522px;
+}
+
+.main-content__wrapper h1 {
+    color: #000;
+    font-size: 60px;
+    font-family: Gilroy-Bold;
+    margin-bottom: 17px;  
+}
+
+.main-content__wrapper p {
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    margin-bottom: 37px;
+    max-width: 466px;
+}
+
+.main-content__btn-list {
+    display: flex;
+    gap: 72px;
+}
+
+.main-content__btn {
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    padding: 15px 35px; 
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    border: none;
+    cursor: pointer; 
+}
+
+footer {
+
+}
+
+.logos {
+    display: flex;
+    gap: 48px;
+}

@@ -1,0 +1,5 @@
+Запрос на шрифт:
+@font-face {
+	font-family: 'Gilroy-Bold'
+	srс: url('/font/Gilpoy-Boold');
+}
