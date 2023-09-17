@@ -1,0 +1,34 @@
+1) Картинки: https://fontawesome.com/search?o=r&m=free&c=arrows
+2) Шрифты: https://fonts.google.com/specimen/Lato
+3) Конвертация шрифтов: https://transfonter.org/
+4) Анимация: https://animista.net/play/attention/wobble/wobble-hor-bottom
+
+ДЗ 9:
+
+1) Доделать низ-остаток
+2) Блок подписка:
+фон оформляем также, как карточки категорий: через background image
+background-size:cover - чтобы картинка заняла все пространство
+3) subscribe через form:
+display:flex
+скругление через border-radius: 4 значения 10-20px  
+4) footer:
+при наведении на кнопку соц.сетей фон должен быть розовый, а сама иконка белая
+это не кнопки, а ссылки, оформленные в виде кнопок
+вставляем svg иконки 
+на ссылку display:flex, jcc, aic
+ ссылка: hover svg -> fill:white
+5) Кнопка при наведении меняется background
+6) Эффект наведения на все 6 карточек товаров-> появляется затеменение и кнопка корзинки
+в html в карточке должен добавляться div 
+Изначально затемнение в display-none
+при наведении с none на flex
+7) Меню - пока не трогать до 10 семинара (покажут на JS)
+Можно ее просто сверстать внутр блока с баннером
+Через position absolute в верхний правый угол
+
+8) Кружочек корзины
+Блоку right position relative
+В блоке ниже верстсаем кружочек в dive, в нем border-radius 50%, там span или p -> 5, в div через flex 
+центрируем
+На div position absolute, top 0, right 0
