@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="Done!">
-      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/ServerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/repository/RepositoryView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/Особенности.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem1/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem1/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem1/SettingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_ui_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="DZ2 - Done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/client/ClientGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/client/ClientGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/client/ClientView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/client/ClientView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/ServerWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/ServerGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2/src/server/server/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/Sem2/src/server/ClientGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem2/src/server/ClientGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/Sem2/src/server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem2/src/server/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/Sem2/src/server/ServerWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem2/src/server/ServerWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_ui_test" beforeDir="false" afterPath="$PROJECT_DIR$/../my_ui_test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +117,7 @@
       <workItem from="1696594042214" duration="117000" />
       <workItem from="1696594227609" duration="757000" />
       <workItem from="1696596126242" duration="18461000" />
-      <workItem from="1696874813666" duration="8823000" />
+      <workItem from="1696874813666" duration="9723000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - done!">
       <option name="closed" value="true" />
@@ -235,11 +215,30 @@
       <option name="project" value="LOCAL" />
       <updated>1690580729306</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="DZ2 - Done!">
+      <option name="closed" value="true" />
+      <created>1696883838882</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696883838882</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -254,6 +253,7 @@
     <MESSAGE value="Seminar Lesson5 - Done!" />
     <MESSAGE value="DZ5 - Done!" />
     <MESSAGE value="Done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done!" />
+    <MESSAGE value="DZ2 - Done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ2 - Done!" />
   </component>
 </project>
