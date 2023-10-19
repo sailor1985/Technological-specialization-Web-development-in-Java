@@ -1,4 +1,4 @@
-package JDK.DZ2.src.server.server.repository;
+package JDK.DZ2_new.server.repository;
 
 import java.io.FileReader;
 import java.io.FileWriter;

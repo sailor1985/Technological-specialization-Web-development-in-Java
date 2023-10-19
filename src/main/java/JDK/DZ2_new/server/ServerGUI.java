@@ -1,4 +1,4 @@
-package JDK.DZ2.src.server.server;
+package JDK.DZ2_new.server;
 
 import lombok.Getter;
 
@@ -7,7 +7,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class ServerGUI extends JFrame implements ServerView {
+public class ServerGUI extends JFrame implements JDK.DZ2.src.server.server.ServerView {
     public static final int WIDTH = 400;
     public static final int HEIGHT = 300;
 

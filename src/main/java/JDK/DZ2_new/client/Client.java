@@ -1,16 +1,16 @@
-package JDK.DZ2.src.server.client;
+package JDK.DZ2_new.client;
 
-import JDK.DZ2.src.server.server.Server;
+import JDK.DZ2_new.server.Server;
 import lombok.Getter;
 
 public class Client {
     @Getter
     private String name;
-    private final ClientView clientView;
+    private final JDK.DZ2.src.server.client.ClientView clientView;
     private final Server server;
     private boolean connected;
 
-    public Client(ClientView clientView, Server server) {
+    public Client(JDK.DZ2.src.server.client.ClientView clientView, Server server) {
         this.clientView = clientView;
         this.server = server;
     }

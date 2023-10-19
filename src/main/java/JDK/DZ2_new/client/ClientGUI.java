@@ -1,12 +1,12 @@
-package JDK.DZ2.src.server.client;
+package JDK.DZ2_new.client;
 
-import JDK.DZ2.src.server.server.ServerGUI;
+import JDK.DZ2_new.server.ServerGUI;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class ClientGUI extends JFrame implements ClientView{
+public class ClientGUI extends JFrame implements JDK.DZ2.src.server.client.ClientView {
     public static final int WIDTH = 400;
     public static final int HEIGHT = 300;
 

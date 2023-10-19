@@ -1,14 +1,14 @@
-package JDK.DZ2.src.server.server;
+package JDK.DZ2_new.server;
 
-import JDK.DZ2.src.server.client.Client;
-import JDK.DZ2.src.server.server.repository.Repository;
+import JDK.DZ2_new.client.Client;
+import JDK.DZ2_new.server.repository.Repository;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Server {
     private final Repository repository;
-    private final ServerView serverView;
+    private final JDK.DZ2.src.server.server.ServerView serverView;
     List<Client> clientList;
     private boolean work;
 
