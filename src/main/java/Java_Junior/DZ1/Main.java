@@ -33,8 +33,4 @@ public class Main {
         }
         return counter > 0 ?  sum / counter : 0;
     }
-
-
-
-
 }
