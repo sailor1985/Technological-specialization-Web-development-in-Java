@@ -11,9 +11,11 @@ public class Main {
         Employee employee1 = new Employee(1, "111-111-111", "Женя", 5);
         Employee employee2 = new Employee(2, "222-222-222", "Жанна", 3);
         Employee employee3 = new Employee(3, "333-333-333", "Борис", 7);
+        Employee employee4 = new Employee(1, "111-111-111", "Долбоеб", 5);
         directory.addEmployee(employee1);
         directory.addEmployee(employee2);
         directory.addEmployee(employee3);
+        directory.addEmployee(employee4);
 
         // Вызываем методы справочника
         List<Employee> employeesByExperience = directory.findEmployeesByExperience(5);
