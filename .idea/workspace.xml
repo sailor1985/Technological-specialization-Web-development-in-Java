@@ -4,25 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="DZ2 - Done!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ3/task1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ3/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ3/task2/ArrayComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ3/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ3/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ3/task3/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="Java Junior&#10;&#10;DZ1 - Done!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ5/DiningPhilosophers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/client/ClientGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/client/ClientGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/ServerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/ServerGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/repository/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/repository/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/repository/RepositoryView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ2_new/server/repository/RepositoryView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/Sem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/Sem1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ6/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../my_ui_test" beforeDir="false" afterPath="$PROJECT_DIR$/../my_ui_test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,28 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava/src/main/java/JDK/DZ3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.31013215&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.31013215",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Intermediate_certification_programmer.DZ3" />
@@ -137,7 +124,19 @@
       <workItem from="1696874813666" duration="9723000" />
       <workItem from="1697044253141" duration="1747000" />
       <workItem from="1697129431487" duration="6127000" />
-      <workItem from="1697734741198" duration="3299000" />
+      <workItem from="1697734741198" duration="5232000" />
+      <workItem from="1698253647393" duration="149000" />
+      <workItem from="1698254375539" duration="7385000" />
+      <workItem from="1700068721048" duration="13253000" />
+      <workItem from="1700653060013" duration="682000" />
+      <workItem from="1700654185258" duration="1594000" />
+      <workItem from="1700657674732" duration="1051000" />
+      <workItem from="1700671945216" duration="593000" />
+      <workItem from="1700821435019" duration="2097000" />
+      <workItem from="1700827742124" duration="709000" />
+      <workItem from="1701031530854" duration="7350000" />
+      <workItem from="1701171312881" duration="292000" />
+      <workItem from="1701176437826" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - done!">
       <option name="closed" value="true" />
@@ -243,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696883838882</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Java Junior&#10;&#10;DZ1 - Done!">
+      <option name="closed" value="true" />
+      <created>1701037145740</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701037145740</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +269,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main/java/JDK/Sem2" />
+    </ignored-roots>
     <MESSAGE value="Task2 - done!" />
     <MESSAGE value="Refactor: DZ2-&gt;DZ1" />
     <MESSAGE value="DZ2:task2 -done!" />
@@ -274,6 +284,8 @@
     <MESSAGE value="DZ5 - Done!" />
     <MESSAGE value="Done!" />
     <MESSAGE value="DZ2 - Done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ2 - Done!" />
+    <MESSAGE value="DZ3 - Done!" />
+    <MESSAGE value="Java Junior&#10;&#10;DZ1 - Done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Junior&#10;&#10;DZ1 - Done!" />
   </component>
 </project>
