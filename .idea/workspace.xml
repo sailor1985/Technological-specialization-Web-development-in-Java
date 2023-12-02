@@ -4,12 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="Java Junior&#10;&#10;DZ1 - Done!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ5/DiningPhilosophers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDK/DZ5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="JDK&#10;&#10;DZ5 - Done!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1/LibraryV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/BalykCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Cheburek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/ChocolateBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Crisps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/DumplingsBerries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/DumplingsMeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/HealthyFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/OliveOil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/SemiFinishedFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/UMarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/DZ6/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../my_ui_test" beforeDir="false" afterPath="$PROJECT_DIR$/../my_ui_test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +69,7 @@
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava",
+    "last_opened_file_path": "C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava/src/main/java/Java_Junior/Sem1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +85,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Intermediate_certification_programmer.DZ3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Клен-М\IdeaProjects\TechnologySpecializationJava\src\main\java\Java_Junior\Sem1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Intermediate_certification_programmer.DZ4" />
@@ -136,7 +158,9 @@
       <workItem from="1700827742124" duration="709000" />
       <workItem from="1701031530854" duration="7350000" />
       <workItem from="1701171312881" duration="292000" />
-      <workItem from="1701176437826" duration="400000" />
+      <workItem from="1701176437826" duration="883000" />
+      <workItem from="1701276592037" duration="76000" />
+      <workItem from="1701276685526" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - done!">
       <option name="closed" value="true" />
@@ -286,6 +310,7 @@
     <MESSAGE value="DZ2 - Done!" />
     <MESSAGE value="DZ3 - Done!" />
     <MESSAGE value="Java Junior&#10;&#10;DZ1 - Done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Junior&#10;&#10;DZ1 - Done!" />
+    <MESSAGE value="JDK&#10;&#10;DZ5 - Done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDK&#10;&#10;DZ5 - Done!" />
   </component>
 </project>
