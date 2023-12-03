@@ -1,4 +1,4 @@
-package Java_Junior.DZ2;
+package Java_Junior.DZ2.task1;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

@@ -1,4 +1,4 @@
-package Java_Junior.DZ2;
+package Java_Junior.DZ2.task1;
 
 import lombok.Getter;
 

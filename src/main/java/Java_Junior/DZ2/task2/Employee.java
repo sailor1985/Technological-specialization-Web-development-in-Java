@@ -1,21 +1,25 @@
-package Java_Junior.Sem2.task3;
+package Java_Junior.DZ2.task2;
 
-import lombok.Getter;
+import Java_Junior.Sem2.task3.Column;
+import Java_Junior.Sem2.task3.Table;
 
 import java.util.UUID;
 
-@Getter
 @Table(name = "users")
 public class Employee {
 
-    @Column(name = "id", primaryKey = true)
+    @Java_Junior.Sem2.task3.Column(name = "id", primaryKey = true)
     private UUID id;
 
-    @Column(name = "username")
+    @Java_Junior.Sem2.task3.Column(name = "username")
     private String username;
 
     @Column(name = "email")
     private String email;
+
+    public UUID getId() {
+        return id;
+    }
 
     public Employee(String username, String email) {
         this.username = username;
@@ -26,8 +30,16 @@ public class Employee {
         this.id = id;
     }
 
+    public String getUsername() {
+        return username;
+    }
+
     public void setUsername(String username) {
         this.username = username;
+    }
+
+    public String getEmail() {
+        return email;
     }
 
     public void setEmail(String email) {

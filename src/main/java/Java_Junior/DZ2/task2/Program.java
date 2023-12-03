@@ -1,4 +1,4 @@
-package Java_Junior.Sem2.task3;
+package Java_Junior.DZ2.task2;
 
 import java.util.UUID;
 
@@ -28,7 +28,6 @@ public class Program {
         Employee user = new Employee("Stanislav", "sample@gmail.com");
         UUID pk = UUID.randomUUID();
         user.setId(pk);
-        String email = user.getEmail();
 
         QueryBuilder queryBuilder = new QueryBuilder();
         String insertQuery = queryBuilder.buildInsertQuery(user);
@@ -39,12 +38,6 @@ public class Program {
 
         String updateQuery = queryBuilder.buildUpdateQuery(user);
         System.out.printf("Update Query: %s\n", updateQuery);
-
-        String deleteQuery = queryBuilder.buildDeleteQuery(Employee.class, email);
-        System.out.printf("Delete Query: %s\n", deleteQuery);
-
-
-
     }
 
 }
