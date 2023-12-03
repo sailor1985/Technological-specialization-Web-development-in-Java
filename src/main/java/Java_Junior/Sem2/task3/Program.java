@@ -42,9 +42,5 @@ public class Program {
 
         String deleteQuery = queryBuilder.buildDeleteQuery(Employee.class, email);
         System.out.printf("Delete Query: %s\n", deleteQuery);
-
-
-
     }
-
 }

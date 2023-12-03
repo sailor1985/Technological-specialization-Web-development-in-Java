@@ -115,14 +115,29 @@ public class QueryBuilder {
 
     }
 
-    /**
+     /**
      * TODO: Доработать в рамках домашней работы
      * @param clazz
-     * @param primaryKey
+     * @param email
      * @return
      */
-    public String buildDeleteQuery(Class<?> clazz, UUID primaryKey){
-        return null;
-    }
+    public String buildDeleteQuery(Class<?> clazz, String email){
+        StringBuilder query = new StringBuilder("DELETE * FROM ");
+        if (clazz.isAnnotationPresent(Table.class)) {
+            Table tableAnnotation = clazz.getAnnotation(Table.class);
+            query.append(tableAnnotation.name()).append(" WHERE ");
+        }
 
+        Field[] fields = clazz.getDeclaredFields();
+        for (Field field : fields) {
+            if (field.isAnnotationPresent(Column.class)) {
+                Column columnAnnotation = field.getAnnotation(Column.class);
+                if (columnAnnotation.name().equals("email")) {
+                    query.append(columnAnnotation.name()).append(" = ").append(email);
+                    break;
+                }
+            }
+        }
+        return query.toString();
+    }
 }
