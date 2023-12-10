@@ -1,19 +1,25 @@
 package Java_Junior.Sem3.task2;
 
-import java.io.Externalizable;
-import java.io.IOException;
-import java.io.ObjectInput;
-import java.io.ObjectOutput;
+import lombok.Getter;
+
+import java.io.*;
 
 public class ToDo implements Externalizable {
 
+    @Serial
     private static final long serialVersionUID = 1L;
 
     //region Поля
 
     /**
      * Наименование задачи
+     * -- GETTER --
+     *  Получить наименование задачи
+     *
+     * @return наименование задачи
+
      */
+    @Getter
     private String title;
 
     /**
@@ -50,14 +56,6 @@ public class ToDo implements Externalizable {
     //region Методы
 
     /**
-     * Получить наименование задачи
-     * @return наименование задачи
-     */
-    public String getTitle() {
-        return title;
-    }
-
-    /**
      * Получить статус выполнения задачи
      * @return статус выполнения задачи
      */
@@ -72,7 +70,5 @@ public class ToDo implements Externalizable {
     public void setDone(boolean done) {
         isDone = done;
     }
-
     //endregion
-
 }

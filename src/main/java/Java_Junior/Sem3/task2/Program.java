@@ -52,10 +52,6 @@ public class Program {
 
             displayTasks(tasks);
         }
-
-
-
-
     }
 
     static List<ToDo> prepareTasks()
@@ -66,5 +62,4 @@ public class Program {
         list.add(new ToDo("Заменить лампочку"));
         return list;
     }
-
 }

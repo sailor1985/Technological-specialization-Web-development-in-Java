@@ -1,5 +1,7 @@
 package Java_Junior.Sem3.task2;
 
+import lombok.Getter;
+
 import java.io.Serializable;
 
 public class ToDoV1 implements Serializable {
@@ -8,7 +10,13 @@ public class ToDoV1 implements Serializable {
 
     /**
      * Наименование задачи
+     * -- GETTER --
+     *  Получить наименование задачи
+     *
+     * @return наименование задачи
+
      */
+    @Getter
     private String title;
 
     /**
@@ -31,14 +39,6 @@ public class ToDoV1 implements Serializable {
     //endregion
 
     //region Методы
-
-    /**
-     * Получить наименование задачи
-     * @return наименование задачи
-     */
-    public String getTitle() {
-        return title;
-    }
 
     /**
      * Получить статус выполнения задачи
