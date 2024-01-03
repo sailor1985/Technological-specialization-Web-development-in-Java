@@ -5,30 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="JDK&#10;&#10;DZ5 - Done!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1/LibraryV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/BalykCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Cheburek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/ChocolateBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Crisps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/DumplingsBerries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/DumplingsMeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/HealthyFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/OliveOil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/SemiFinishedFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Snack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/Thing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2/UMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatClient___1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatClient___2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatServer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/ru/geekbrains/chat/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/ru/geekbrains/chat/client/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/geekbrains/chat/server/ClientManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/geekbrains/chat/server/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/geekbrains/chat/server/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my_ui_test" beforeDir="false" afterPath="$PROJECT_DIR$/../my_ui_test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,19 +55,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ChatClient - 1.executor": "Run",
+    "Application.ChatClient - 2.executor": "Run",
+    "Application.ChatClient - 3.executor": "Run",
+    "Application.ChatServer.executor": "Run",
+    "Application.Java_Junior.DZ3.task1.Main.executor": "Run",
+    "Application.Java_Junior.DZ3.task2.Main.executor": "Run",
+    "Application.Program.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava/src/main/java/Java_Junior/Sem1",
+    "jdk.selected.JAVA_MODULE": "corretto-19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava/chat-server/src/main/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.31013215",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
@@ -87,32 +88,32 @@
       <recent name="Intermediate_certification_programmer.DZ3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Клен-М\IdeaProjects\TechnologySpecializationJava\src\main\java\Java_Junior\Sem1" />
+      <recent name="C:\Users\Клен-М\IdeaProjects\TechnologySpecializationJava\chat-server\src\main\java" />
+      <recent name="C:\Users\Клен-М\IdeaProjects\TechnologySpecializationJava\chat-client\src\main\java" />
+      <recent name="C:\Users\Клен-М\IdeaProjects\TechnologySpecializationJava\src\main\java\Java_Junior\Sem5\ru\geekbrains" />
+      <recent name="C:\Users\Клен-М\IdeaProjects\TechnologySpecializationJava\src\main\java\Java_Junior\Sem5" />
+      <recent name="C:\Users\Клен-М\IdeaProjects\TechnologySpecializationJava\src\main\java\Java_Junior\DZ3\task2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Intermediate_certification_programmer.DZ4" />
       <recent name="Intermediate_certification_programmer.DZ3.Task2" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK.Sem2.src.server.Main" />
-      <module name="TechnologySpecializationJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK.Sem2.src.server.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
+  <component name="RunManager" selected="Compound.ChatDemo">
+    <list>
+      <item itemvalue="Application.ChatClient - 2" />
+      <item itemvalue="Application.ChatClient - 1" />
+      <item itemvalue="Application.ChatClient - 3" />
+      <item itemvalue="Application.ChatServer" />
+      <item itemvalue="Compound.ChatDemo" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-f0552fc0" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -161,6 +162,19 @@
       <workItem from="1701176437826" duration="883000" />
       <workItem from="1701276592037" duration="76000" />
       <workItem from="1701276685526" duration="910000" />
+      <workItem from="1701524458540" duration="14919000" />
+      <workItem from="1701624213742" duration="4142000" />
+      <workItem from="1701887315721" duration="432000" />
+      <workItem from="1701888684495" duration="731000" />
+      <workItem from="1701889978770" duration="3236000" />
+      <workItem from="1702198547292" duration="157000" />
+      <workItem from="1702198730745" duration="8397000" />
+      <workItem from="1702485455781" duration="877000" />
+      <workItem from="1702486904827" duration="632000" />
+      <workItem from="1703528024172" duration="486000" />
+      <workItem from="1703528885321" duration="1220000" />
+      <workItem from="1703951736071" duration="6638000" />
+      <workItem from="1704285860802" duration="5595000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - done!">
       <option name="closed" value="true" />

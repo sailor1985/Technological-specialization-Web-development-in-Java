@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chat-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat-client/src/main/java/ru" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/chat-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat-server/src/main/java/ru" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/chat-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/DZ2/task2/Column.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/DZ2/task2/Employee.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/DZ2/task2/Entity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/DZ2/task2/Program.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/DZ2/task2/QueryBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/DZ2/task2/Table.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/DZ2/task2/models/Entity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem1/task2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem2/task1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem2/task2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem2/task3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem3/Program.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem3/task1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem3/task2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem5/chat-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Java_Junior/Sem5/ru/geekbrains/Program.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>
