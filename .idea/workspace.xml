@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea7cd10-8e71-413a-aa8c-e40abd308e81" name="Changes" comment="JDK&#10;&#10;DZ5 - Done!">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatClient___1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatClient___2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ChatServer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/ru/geekbrains/chat/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/ru/geekbrains/chat/client/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/geekbrains/chat/server/ClientManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/geekbrains/chat/server/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/geekbrains/chat/server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/person.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/DZ1/src/main/java/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my_ui_test" beforeDir="false" afterPath="$PROJECT_DIR$/../my_ui_test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,37 +46,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ChatClient - 1.executor": "Run",
-    "Application.ChatClient - 2.executor": "Run",
-    "Application.ChatClient - 3.executor": "Run",
-    "Application.ChatServer.executor": "Run",
-    "Application.Java_Junior.DZ3.task1.Main.executor": "Run",
-    "Application.Java_Junior.DZ3.task2.Main.executor": "Run",
-    "Application.Program.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "corretto-19",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava/chat-server/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.31013215",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ChatClient - 1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatClient - 2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatClient - 3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java_Junior.DZ3.task1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java_Junior.DZ3.task2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-19&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Клен-М/IdeaProjects/TechnologySpecializationJava/chat-server/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.31013215&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Intermediate_certification_programmer.DZ3" />
@@ -174,7 +168,8 @@
       <workItem from="1703528024172" duration="486000" />
       <workItem from="1703528885321" duration="1220000" />
       <workItem from="1703951736071" duration="6638000" />
-      <workItem from="1704285860802" duration="5595000" />
+      <workItem from="1704285860802" duration="6178000" />
+      <workItem from="1704708565408" duration="4804000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - done!">
       <option name="closed" value="true" />
